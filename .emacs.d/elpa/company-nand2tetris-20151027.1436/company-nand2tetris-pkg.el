@@ -1,0 +1,1 @@
+(define-package "company-nand2tetris" "20151027.1436" "Company backend for nand2tetris major mode" '((names "0.3.0") (nand2tetris "0.0.1") (company "0.5") (cl-lib "0.5.0")) :url "http://www.github.com/CestDiego/nand2tetris.el/" :keywords '("nand2tetris" "hdl" "company"))
